@@ -53,6 +53,15 @@ footer {
 	text-align: center
 }
 
+#tdtitle {
+    width: 80%;
+}
+
+#tdicons{
+    width: 20%;
+    text-align: left;
+}
+
 #uploadImage{
     float:left
 }
